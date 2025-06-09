@@ -75,11 +75,6 @@ jupyter notebook Prompt_Injection_Demo_UI.ipynb
 
     The model and keywords are hidden in backend logic for safety.
 
-📸 Screenshot
-
-![556b4f05-fa1d-4335-925f-0e252414009e](https://github.com/user-attachments/assets/b2639658-0f32-4ece-a292-a47866a6d628)
-
-
 🔒 Recommendation
 
 For real-world applications, always:
