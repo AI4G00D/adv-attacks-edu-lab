@@ -69,3 +69,28 @@ This shows the model **fails to reject overriding instructions**, despite being 
 ```bash
 pip install gradio openai
 
+Then run the notebook:
+
+jupyter notebook Prompt_Injection_Demo_UI.ipynb
+
+    The model and keywords are hidden in backend logic for safety.
+
+📸 Screenshot
+
+![556b4f05-fa1d-4335-925f-0e252414009e](https://github.com/user-attachments/assets/b2639658-0f32-4ece-a292-a47866a6d628)
+
+
+🔒 Recommendation
+
+For real-world applications, always:
+
+    Use prompt sanitizers
+
+    Limit user override access
+
+    Run prompt audits and attack simulations before deployment
+
+🧠 Maintainers
+
+This subproject is maintained under the broader adv-attacks-edu-lab repository, designed to raise awareness on adversarial behavior in GenAI and ML systems.
+<!-- Maintainer identity reserved for future public disclosure -->
