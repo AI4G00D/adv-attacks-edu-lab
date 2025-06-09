@@ -44,3 +44,62 @@ adv-attacks-edu-lab/
 │   └── README.md, PGD notebook
 │
 └── ...
+
+🛡️ Ethical Disclaimer
+
+This repository is strictly for educational and awareness purposes.
+All demonstrations are designed in controlled conditions to explain vulnerabilities—not to exploit them.
+
+🔒 Do NOT use these techniques on:
+
+    Live systems
+
+    Commercial APIs
+
+    Unconsented models
+
+    Production deployments
+
+⚠️ Misuse of adversarial techniques may result in violations of law, academic codes, or corporate policy.
+
+💻 How to Use
+
+    Clone this repo:
+
+git clone https://github.com/<your-username>/adv-attacks-edu-lab.git
+cd adv-attacks-edu-lab
+
+Follow individual README.md files inside each folder to:
+
+    Understand attack logic
+
+    Watch the demo video
+
+    Run the Jupyter notebook
+
+    Observe the manipulated outputs
+
+Install common requirements:
+
+    pip install -r requirements.txt
+
+🎥 Videos & Screenshots
+
+Most sub-projects contain demo videos and screenshots to help you visualize how attacks impact model behavior.
+📚 Recommended Learning Resources
+
+    CleverHans Library (Adversarial ML) (https://github.com/cleverhans-lab/cleverhans)
+
+    Papers with Code: Adversarial Attacks (https://paperswithcode.com/task/adversarial-attack)
+
+🤝 Contributions
+
+Pull requests are welcome! If you'd like to add:
+
+    New attack types (e.g., membership inference, model extraction)
+
+    Countermeasures (defensive methods)
+
+    Educational writeups
+
+Please fork the repo, follow the format, and submit a PR.
