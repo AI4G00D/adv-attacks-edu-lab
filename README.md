@@ -103,3 +103,9 @@ Pull requests are welcome! If you'd like to add:
     Educational writeups
 
 Please fork the repo, follow the format, and submit a PR.
+
+🧠 Maintainers
+
+This repository is curated by independent researchers committed to ethical AI education.
+For contributions or collaboration, please use the GitHub issue tracker or submit a pull request.
+<!-- Maintainer identity reserved for future public disclosure -->
